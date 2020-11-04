@@ -37,12 +37,10 @@ function createIndex( dir )
             var stat = fs.statSync( `${dir}/${index}` );
             if( stat.isDirectory() )
                 createIndex( `${dir}/${index}` );
-
-            indexList += `\t\t\t<li>\n`;
-            indexList += `\t\t\t\t<a href='${index}'${downloadFolders.includes( startFolderName ) ? " download" : ""}>${index}</a>\n`;
-            indexList += `\t\t\t</li>\n`;
+            indexList += `\t\t\t<li><a href='${index}'${downloadFolders.includes( startFolderName ) ? " download" : ""}>${index}</a></li>\n`;
         }
     });
+    indexList = indexList.slice( 0, indexList.length - 1 );
 
     const output = 
     `<!DOCTYPE html>
@@ -52,7 +50,7 @@ function createIndex( dir )
         <h2>Index of ./${startFolderName}</h2>
         <hr>
         <ul>
-    ${indexList}
+${indexList}
         </ul>
     </body>
     </html>`;
