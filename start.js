@@ -1,11 +1,17 @@
 const fs = require( "fs" );
 
 var startFolderName = __dirname;
-const blacklist = 
+const blacklist =
 [
     __filename,
     ".git",
-    "index.html"
+    "index.html",
+    "start.js"
+];
+
+const downloadFolders =
+[
+    "books"
 ];
 
 function createIndex( dir )
@@ -16,6 +22,10 @@ function createIndex( dir )
     while( startFolderName.includes( "\\" ) )
     {
         startFolderName = startFolderName.slice( startFolderName.indexOf( "\\" ) + 1 );
+    }
+    while( startFolderName.includes( "/" ) )
+    {
+        startFolderName = startFolderName.slice( startFolderName.indexOf( "/" ) + 1 );
     }
 
     var indexList = "";
@@ -29,7 +39,7 @@ function createIndex( dir )
                 createIndex( `${dir}/${index}` );
 
             indexList += `\t\t\t<li>\n`;
-            indexList += `\t\t\t\t<a href='${index}'>${index}</a>\n`;
+            indexList += `\t\t\t\t<a href='${index}'${downloadFolders.includes( startFolderName ) ? " download" : ""}>${index}</a>\n`;
             indexList += `\t\t\t</li>\n`;
         }
     });
