@@ -1,9 +1,10 @@
 const fs = require( "fs" );
-
-var startFolderName = __dirname;
+const { dirname } = require("path");
+const runFileName = getFileNameFromFullDir( __filename );
+const shortDir = getFileNameFromFullDir( __dirname );
 const blacklist =
 [
-    __filename,
+    runFileName,
     ".git",
     "index.html",
     "start.js"
@@ -14,19 +15,25 @@ const downloadFolders =
     "books"
 ];
 
+function getFileNameFromFullDir( input )
+{
+    while( input.includes( "\\" ) )
+    {
+        input = input.slice( input.indexOf( "\\" ) + 1 );
+    }
+    while( input.includes( "/" ) )
+    {
+        input = input.slice( input.indexOf( "/" ) + 1 );
+    }
+
+    return input;
+}
+
 function createIndex( dir )
 {
     console.log( `indexing ${dir}` );
-    var startFolderName = dir;
+    var startFolderName = getFileNameFromFullDir( dir );
     const indexes = fs.readdirSync( dir );
-    while( startFolderName.includes( "\\" ) )
-    {
-        startFolderName = startFolderName.slice( startFolderName.indexOf( "\\" ) + 1 );
-    }
-    while( startFolderName.includes( "/" ) )
-    {
-        startFolderName = startFolderName.slice( startFolderName.indexOf( "/" ) + 1 );
-    }
 
     var indexList = "";
 
@@ -45,9 +52,9 @@ function createIndex( dir )
     const output = 
     `<!DOCTYPE html>
     <html>
-    <head><title>Index of ./${startFolderName}</title></head>
+    <head><title>Index of ./${dir.slice( dir.indexOf( shortDir ) )}</title></head>
     <body>
-        <h2>Index of ./${startFolderName}</h2>
+        <h2>Index of ./${dir.slice( dir.indexOf( shortDir ) )}</h2>
         <hr>
         <ul>
 ${indexList}
