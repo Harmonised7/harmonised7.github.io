@@ -43,7 +43,7 @@ function createIndex( dir )
             var stat = fs.statSync( `${dir}/${index}` );
             if( stat.isDirectory() )
                 createIndex( `${dir}/${index}` );
-            indexList += `\t\t\t<li><a href='${index}'${downloadFolders.includes( startFolderName ) ? " download" : ""}><font size="+10">${index}</font></a></li>\n`;
+            indexList += `\t\t\t<li><a href='${index}'${downloadFolders.includes( startFolderName ) ? " download" : ""}>${index}</a></li>\n`;
         }
     });
     indexList = indexList.slice( 0, indexList.length - 1 );
@@ -51,14 +51,16 @@ function createIndex( dir )
     const output = 
     `<!DOCTYPE html>
     <html>
-    <head><title><font size="+10">Index of ./${dir.slice( __dirname.length + 1 )}</font></title></head>
+    <font size="+10">
+    <head><title>Index of ./${dir.slice( __dirname.length + 1 )}</title></head>
     <body>
-        <h2><font size="+10">Index of ./${dir.slice( __dirname.length + 1 )}</font></h2>
+        <h2>Index of ./${dir.slice( __dirname.length + 1 )}</h2>
         <hr>
-        <ul>${dir == __dirname ? "" : `\n\t\t\t<li><a href='..'><font size="+10">..</font></a></li>`}
+        <ul>${dir == __dirname ? "" : `\n\t\t\t<li><a href='..'>..</a></li>`}
 ${indexList}
         </ul>
     </body>
+    </font>
     </html>`;
 
     fs.writeFileSync( `${dir}/index.html`, output );
