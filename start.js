@@ -1,7 +1,6 @@
 const fs = require( "fs" );
 const { dirname } = require("path");
 const runFileName = getFileNameFromFullDir( __filename );
-const shortDir = getFileNameFromFullDir( __dirname );
 const blacklist =
 [
     runFileName,
@@ -52,9 +51,9 @@ function createIndex( dir )
     const output = 
     `<!DOCTYPE html>
     <html>
-    <head><title>Index of ./${dir.slice( dir.indexOf( shortDir ) )}</title></head>
+    <head><title>Index of ./${dir.slice( __dirname.length )}</title></head>
     <body>
-        <h2>Index of ./${dir.slice( dir.indexOf( shortDir ) )}</h2>
+        <h2>Index of ./${dir.slice( __dirname.length )}</h2>
         <hr>
         <ul>
 ${indexList}
