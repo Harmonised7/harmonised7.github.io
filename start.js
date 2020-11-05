@@ -51,8 +51,8 @@ function createIndex( dir )
     const output = 
     `<!DOCTYPE html>
     <html>
-    <font size="+10">
     <head><title>Index of ./${dir.slice( __dirname.length + 1 )}</title></head>
+    <font size="+10">
     <body>
         <h2>Index of ./${dir.slice( __dirname.length + 1 )}</h2>
         <hr>
