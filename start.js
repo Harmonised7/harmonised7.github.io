@@ -52,15 +52,15 @@ function createIndex( dir )
     `<!DOCTYPE html>
     <html>
     <head><title>Index of ./${dir.slice( __dirname.length + 1 )}</title></head>
-    <font size="+10">
     <body>
         <h2>Index of ./${dir.slice( __dirname.length + 1 )}</h2>
         <hr>
+        <font size="+10">
         <ul>${dir == __dirname ? "" : `\n\t\t\t<li><a href='..'>..</a></li>`}
 ${indexList}
+        </font>
         </ul>
     </body>
-    </font>
     </html>`;
 
     fs.writeFileSync( `${dir}/index.html`, output );
