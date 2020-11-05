@@ -55,7 +55,7 @@ function createIndex( dir )
     <body>
         <h2>Index of ./${dir.slice( __dirname.length + 1 )}</h2>
         <hr>
-        <ul>
+        <ul>${dir == __dirname ? "" : `\n\t\t\t<li><a href='..'>..</a></li>`}
 ${indexList}
         </ul>
     </body>
