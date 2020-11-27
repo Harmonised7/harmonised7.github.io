@@ -6,7 +6,8 @@ const blacklist =
     runFileName,
     ".git",
     "index.html",
-    "start.js"
+    "start.js",
+    "start.bat"
 ];
 
 const downloadFolders =
