@@ -41,10 +41,13 @@ function createIndex( dir )
     {
         if( !blacklist.includes( index ) )
         {
+            type = "";
             var stat = fs.statSync( `${dir}/${index}` );
             if( stat.isDirectory() )
                 createIndex( `${dir}/${index}` );
-            indexList += `\t\t\t<li><a href='${index}'${downloadFolders.includes( startFolderName ) ? " download" : ""}>${index}</a></li>\n`;
+            // else if( downloadFolders.includes( startFolderName ) )
+            //     type = " download";
+            indexList += `\t\t\t<li><a href='${index}'${type}>${index}</a></li>\n`;
         }
     });
     indexList = indexList.slice( 0, indexList.length - 1 );
