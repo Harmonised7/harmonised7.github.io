@@ -1,0 +1,32 @@
+div, text, button
+{
+    padding: 5px;
+}
+
+div
+{
+    background-color: #d198ffaa;
+    border: solid 1px  #d46e9e;
+}
+
+#mainBox
+{
+    height: 98%;
+    width: 75%;
+    text-align: center;
+    margin: auto;
+}
+
+#magicButton
+{
+    position: absolute;
+}
+
+body
+{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: hidden;
+}
