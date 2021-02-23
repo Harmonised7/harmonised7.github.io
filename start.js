@@ -40,7 +40,7 @@ function createIndex( dir )
     console.log( startFolderName );
     indexes.forEach( index =>
     {
-        if( !blacklist.includes( index ) || dir.includes( "random_stuff" ) )
+        if( !blacklist.includes( index ) )
         {
             type = "";
             var stat = fs.statSync( `${dir}/${index}` );
