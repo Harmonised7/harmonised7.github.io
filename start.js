@@ -7,7 +7,10 @@ const blacklist =
     ".git",
     "index.html",
     "start.js",
-    "start.bat"
+    "start.bat",
+    "js",
+    "css",
+    "images"
 ];
 
 const downloadFolders =
