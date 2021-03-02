@@ -8,7 +8,7 @@ function startSnowflakes()
         //Initialize Each Snowflake
         var flake = document.createElement( "img" );    //Create an Image Element
         flake.id = "snowflake";                         //Give ID
-        flake.src = "images/snowflake.png";             //Load Image
+        flake.src = "./images/snowflake.png";           //Load Image
         flake.z = 0.025 + Math.random();                //Decide a Distance value
         flake.rotDir = Math.floor( Math.random()*2 ) == 1 ? 1 : -1; //Decide a random rotation direction
         flake.style.left = Math.random()*100 + "%";     //Decide a random horizontal position
