@@ -1,3 +1,8 @@
+body
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
 div, text, button
 {
     padding: 5px;
@@ -25,7 +30,7 @@ a, .topBarButton
 #covidWarningText
 {
     color: rgb(98, 0, 255);
-    font-size: 200%;
+    font-size: 100%;
 }
 
 #coursesListBox
