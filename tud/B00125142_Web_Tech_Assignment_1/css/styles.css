@@ -22,14 +22,14 @@ a, .topBarButton
 
 #covidWarning
 {
-    background: repeating-linear-gradient( 45deg, #ffffaa, #ffff00 30px, #ffaa44 30px,  #dd9100 60px );
+    background: repeating-linear-gradient( 45deg, #e0e09d, #ffff00 30px, #ff9e27 30px,  #dd9100 60px );
     border: solid 1px  #ff6600;
     padding:0px;
 }
 
 #covidWarningText
 {
-    color: rgb(98, 0, 255);
+    color: #0000ff;
     font-size: 100%;
 }
 
