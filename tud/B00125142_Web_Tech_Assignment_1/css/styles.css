@@ -22,7 +22,7 @@ a, .topBarButton
 
 #covidWarning
 {
-    background: repeating-linear-gradient( 45deg, #e0e09d, #ffff00 30px, #ff9e27 30px,  #dd9100 60px );
+    background: repeating-linear-gradient( 45deg, #e4e470, #ecec33 30px, #e7a34f 30px,  #e6a123 60px );
     border: solid 1px  #ff6600;
     padding:0px;
 }
