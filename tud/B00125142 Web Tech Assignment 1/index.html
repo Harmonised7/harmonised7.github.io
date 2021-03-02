@@ -1,0 +1,107 @@
+<!DOCTYPE>
+<html>
+<head>
+    <body>
+        <link rel="stylesheet" type="text/css" href="../../css/styles.css" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="js/snowflakes.js"></script>
+        <script src="js/events.js"></script>
+        <script>
+            $(document).ready( () =>
+            {
+                startSnowflakes();
+                registerEvents();
+                document.getElementById("date").innerHTML = Date();
+            });
+        </script>
+        <img src="images/tud.png" id="tudLogo">
+        <div id="mainBox">
+            <div id="topBar">
+                <button class="topBarButton" id="newsButton">News</button>
+                <button class="topBarButton" id="coursesButton">Courses</button>
+                <button class="topBarButton" id="libraryButton">Library</button>
+                <button class="topBarButton" id="contactUsButton">Contact Us</button>
+            </div>
+            <div id="displayBox">
+                <div class="choiceBox" id="newsBox">
+                    <h1>Welcome to the TU Dublin News Letter!</h1>
+                    <a href="https://www.gov.ie/en/campaigns/c36c85-covid-19-coronavirus/">
+                        <div id="covidWarning">
+                            <b><p id="covidWarningText">Click here for latest Covid-19 Updates</p></b>
+                        </div>
+                    </a>
+                    <div id="newsListBox">
+                        <a href="https://tudublin.ie/study/visit-us/open-days/">
+                            <img src="images/news/Open_Evening.jpg" id="newsListEntry">
+                            <p>28th of April, 2021 - Open Days</p>
+                        </a>
+                    </div>
+                    <div id="newsListBox">
+                        <a href="https://www.tudublin.ie/explore/news/tu-dublin-celebrates-international-womens-day-.html">
+                            <img src="images/news/Womens_Day.jpg" id="newsListEntry">
+                            <p>1st of March, 2021 - International Women's Day</p>
+                        </a>
+                    </div>
+                    <div id="newsListBox">
+                        <a href="https://www.tudublin.ie/explore/news/whats-actually-in-the-covid-19-vaccine.html">
+                            <img src="images/news/Womens_Day.jpg" id="newsListEntry">
+                            <p>4th of February, 2021 - What is actually inside a Covid-19 Vaccine?</p>
+                        </a>
+                    </div>
+                    <div id="newsListBox">
+                        <a href="https://www.tudublin.ie/explore/news/top-cao-tips-from-tu-dublin.html">
+                            <img src="images/news/CAO_Tips.jpg" id="newsListEntry">
+                            <p>21st of January, 2021 - Top CAO tips from TU Dublin</p>
+                        </a>
+                    </div>
+                    <div id="newsListBox">
+                        <a href="https://www.tudublin.ie/explore/news/laptop-loan-scheme-applications-open-for-semester-two.html">
+                            <img src="images/news/Laptop_Loans.jpg" id="newsListEntry">
+                            <p>25th of January, 2021 - Laptop Loans Scheme: Apply for Second Semester</p>
+                        </a>
+                    </div>
+                    <div id="newsListBox">
+                        
+                            <p>For more TU Dublin related news: <a href="https://www.tudublin.ie/explore/news/">Click Here</a></p>
+                    </div>
+                    <div id="socialMediaBox">
+                        <a href="https://www.facebook.com/TechnologicalUniversityDublin.TUDublin/"><img src="images/social/fb.png" class="socialMediaButton"></a>
+                        <a href="https://twitter.com/TUDublin_BN"><img src="images/social/insta.png" class="socialMediaButton"></a>
+                        <a href="https://www.instagram.com/tudublin/"><img src="images/social/twitter.png" class="socialMediaButton"></a>
+                        <a href="https://www.youtube.com/user/DITPublicAffairs"><img src="images/social/yt.png" class="socialMediaButton"></a>
+                    </div>
+                </div>
+                <div class="choiceBox" id="coursesBox">
+                    <h1>TU Dublin offers courses in the following fields:</h1>
+                    <div id="coursesListBox"><a href="http://courses.itb.ie/index.cfm/pages/home/department/E">Engineering</a></div>
+                    <div id="coursesListBox"><a href="http://courses.itb.ie/index.cfm/pages/home/department/C">Computing</a></div>
+                    <div id="coursesListBox"><a href="http://courses.itb.ie/index.cfm/pages/home/department/B">Business</a></div>
+                    <div id="coursesListBox"><a href="http://courses.itb.ie/index.cfm/pages/home/department/EC">Early Childhood Care and Education</a></div>
+                    <div id="coursesListBox"><a href="http://courses.itb.ie/index.cfm/pages/home/department/H">Horticulture</a></div>
+                    <div id="coursesListBox"><a href="http://courses.itb.ie/index.cfm/pages/home/department/AS">Applied Social Studies</a></div>
+                    <div id="coursesListBox"><a href="http://courses.itb.ie/index.cfm/pages/home/department/DM">Creative Digital Media</a></div>
+                    <div id="coursesListBox"><a href="http://courses.itb.ie/index.cfm/pages/home/department/S">Sports</a></div>
+                    <div id="coursesListBox"><a href="http://courses.itb.ie/index.cfm/pages/home/department/CY">Community & Youth Development</a></div>
+                    <div id="coursesListBox"><a href="http://courses.itb.ie/index.cfm/pages/home/department/O">Other</a></div>
+                </div>
+                <div class="choiceBox" id="libraryBox">
+                    <h1>TU Dublin Library Services</h1>
+                    <p>Library Services are provided across our campuses, in Blanchardstown, City Centre, and Tallaght.</p>
+                    <p>The Online Library is accessible to any of our students, from anywhere, at any time.</p>
+                    <div id="coursesListBox"><a href="https://library.itb.ie/">Blanchardstown</a></div>
+                    <div id="coursesListBox"><a href="http://www.dit.ie/library/">City Centre</a></div>
+                    <div id="coursesListBox"><a href="https://library.it-tallaght.ie/">Tallaght</a></div>
+                </div>
+                <div class="choiceBox" id="contactUsBox">
+                    <h1>General Enquiries</h1>
+                    <div id="coursesListBox">Email us at <a href="mailto:courses@tudublin.ie">courses@tudublin.ie</a></div>
+                    <div id="coursesListBox">Blanchardstown: <a href="tel:+353-1-885-1000">+353 1 885 1000</a></div>
+                    <div id="coursesListBox">City Centre: <a href="tel:+353-1-220-5000">+353 1 220 5000</a></div>
+                    <div id="coursesListBox">Tallaght: <a href="tel:+353-1-404-2000">+353 1 404 2000</a></div>
+                    <div id="coursesListBox">To contact a specific member of the staff: <a href="https://www.tudublin.ie/connect/staff-directory/">Click Here</a></div>
+                </div>
+            </div>
+        </div>
+    </body>
+</head>
+</html>

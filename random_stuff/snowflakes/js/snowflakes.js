@@ -1,5 +1,6 @@
 function startSnowflakes()
 {
+    const fps = 30;
     var lastFrame = Date.now();
     snowflakes = new Set();
     for( var i = 0; i < 1000; i++ )
@@ -39,5 +40,5 @@ function startSnowflakes()
             flake.style.transform = `rotate( ${deg}deg )`;
         });
         lastFrame = Date.now();
-    }, 50 );
+    }, 1000/fps );
 }

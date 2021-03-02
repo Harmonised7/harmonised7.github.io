@@ -10,7 +10,8 @@ const blacklist =
     "start.bat",
     "js",
     "css",
-    "images"
+    "images",
+    "tud"
 ];
 
 const downloadFolders =
