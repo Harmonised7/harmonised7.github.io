@@ -52,7 +52,7 @@ function createIndex( dir )
                 createIndex( `${dir}/${index}` );
             // else if( downloadFolders.includes( startFolderName ) )
             //     type = " download";
-            indexList += `\t\t\t<li><a href='${index}'${type}>${index}</a></li>\n`;
+            indexList += `\t\t\t<li><a href="${index}"${type}>${index}</a></li>\n`;
         }
     });
     indexList = indexList.slice( 0, indexList.length - 1 );
