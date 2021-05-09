@@ -1,0 +1,22 @@
+{
+    "strings":
+    {
+        "latestVersion": "3.54.1",
+        "updateMessage": "Future update that doesn't exist"
+    },
+    "doubles":
+    {
+    },
+    "longs":
+    {
+    },
+    "maps":
+    {
+
+    },
+    "motd":
+    [
+        "You Matter!",
+        "Don't Give Up!"
+    ]
+}
