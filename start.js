@@ -11,7 +11,8 @@ const blacklist =
     "js",
     "css",
     "images",
-    "15233251"
+    "15233251",
+    "wompers_club"
 ];
 
 const downloadFolders =
