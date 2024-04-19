@@ -45,14 +45,14 @@ function createIndex( dir )
     console.log( startFolderName );
     indexes.forEach( index =>
     {
+        type = "";
+        var stat = fs.statSync( `${dir}/${index}` );
+        if( stat.isDirectory() )
+            createIndex( `${dir}/${index}` );
+        // else if( downloadFolders.includes( startFolderName ) )
+        //     type = " download";
         if( !blacklist.includes( index ) )
         {
-            type = "";
-            var stat = fs.statSync( `${dir}/${index}` );
-            if( stat.isDirectory() )
-                createIndex( `${dir}/${index}` );
-            // else if( downloadFolders.includes( startFolderName ) )
-            //     type = " download";
             indexList += `\t\t\t<li><a href="${index}"${type}>${index}</a></li>\n`;
         }
     });
