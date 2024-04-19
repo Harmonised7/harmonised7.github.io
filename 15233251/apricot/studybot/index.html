@@ -1,14 +1,127 @@
 <!DOCTYPE html>
-    <html>
-    <head><title>Index of ./15233251/apricot/studybot</title></head>
-    <body>
-        <h2>Index of ./15233251/apricot/studybot</h2>
-        <hr>
-        <font size="+10">
-        <ul>
-			<li><a href='..'>..</a></li>
-			<li><a href="styles.css">styles.css</a></li>
-        </font>
-        </ul>
-    </body>
-    </html>
+<html lang="en">
+<head>
+    <!-- TODO APRICOT CHANGE THIS -->
+    <title>Cute Project</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="chat-box"></div>
+    <div id="input-panel">
+        <input type="text" id="message-input" placeholder="Type your message here">
+    </div>
+
+    <script>
+        let replaceWrongLettersRegex = /[^a-z0-9 ]/gi
+        let answers = {}
+        let question = ""
+        let filteredQuestion = ""
+        let waitingForAnswer = false
+        let messageInput = document.getElementById('message-input');
+
+        window.onload = init;
+
+        function init()
+        {
+            //TODO APRICOT CHANGE THIS
+            sendMessage("Hello! I'm the girl your son calls Mommy~", false)
+            askWhatICanHelpYouWith()
+        }
+
+        function askWhatICanHelpYouWith()
+        {
+            sendMessage("What would you like to know?", false)
+        }
+
+        function handleKeyPress(event)
+        {
+            if (event.key == 'Enter')
+            {  
+                submitMessage();
+            }
+        }
+
+        messageInput.addEventListener('keypress', handleKeyPress);
+
+        function submitMessage()
+        {
+            let inputText = document.getElementById('message-input').value
+            document.getElementById('message-input').value = '';
+
+            inputText = inputText.trim()
+
+            if(inputText.length === 0)
+            {
+                return
+            }
+
+            if(waitingForAnswer)
+            {
+                let answer = inputText
+                waitingForAnswer = false
+                if(answer.toLowerCase() === "skip")
+                {
+                    askWhatICanHelpYouWith()
+                    return
+                }
+                answers[filteredQuestion] = answer
+                sendMessage(answer, true)
+                sendMessage("Oh so the appropriate answer to the question \"" + question + "\" is \"" + answer + "\"!");
+                sendMessage("Thank you! I will remember this.");
+                askWhatICanHelpYouWith()
+                return
+            }
+
+            question = inputText
+            filteredQuestion = question.replaceAll(replaceWrongLettersRegex, "").toLowerCase()
+            sendMessage(question, true)
+            
+            let reply = answers[filteredQuestion]
+            if(reply)
+            {
+                sendMessage(reply, false)
+                sendMessage("I hope that helps!", false)
+                askWhatICanHelpYouWith()
+            }
+            else
+            {
+                sendMessage("I'm sorry but I don't know the answer to this.", false)
+                sendMessage("What is the appropriate reply to your question? (Type \"skip\" to skip)", false)
+                waitingForAnswer = true
+            }
+        }
+
+        function sendMessage(inputText, isUser)
+        {
+            if(inputText.toLowerCase() === "quit")
+            {
+                window.close()
+            }
+
+            let chatBox = document.getElementById('chat-box');
+            let messageElement = document.createElement('p');
+
+            if(isUser)
+            {
+                messageElement.textContent = "You: " + inputText
+                messageElement.classList.add("user-text")
+            }
+            else
+            {
+                messageElement.textContent = "StudyBot: " + inputText
+                messageElement.classList.add("program-text")
+            }
+            chatBox.appendChild(messageElement)
+
+            let children = chatBox.children
+
+            if(children.length > 20)
+            {
+                chatBox.removeChild(children[0])
+            }
+        }
+    </script>
+</body>
+</html>

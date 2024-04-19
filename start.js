@@ -1,6 +1,6 @@
 const fs = require( "fs" );
-const { dirname } = require("path");
 const runFileName = getFileNameFromFullDir( __filename );
+const SAFE_TO_REMOVE_KEY = "<!-- SAFE-TO-REMOVE -->"
 const blacklist =
 [
     runFileName,
@@ -36,30 +36,52 @@ function getFileNameFromFullDir( input )
 
 function createIndex( dir )
 {
-    console.log( `indexing ${dir}` );
+    const indexPath = `${dir}/index.html`
+    let okayToWrite = true
+    if(fs.existsSync(indexPath))
+    {
+        const indexFileContent = fs.readFileSync(indexPath, "utf8")
+        if(!indexFileContent.includes(SAFE_TO_REMOVE_KEY))
+        {
+            okayToWrite = false
+        }
+    }
+
+    console.log( `indexing ${dir}, okayToWrite: ${okayToWrite}` );
     var startFolderName = getFileNameFromFullDir( dir );
     const indexes = fs.readdirSync( dir );
 
     var indexList = "";
 
     console.log( startFolderName );
-    indexes.forEach( index =>
+    for(const index of indexes)
     {
         type = "";
         var stat = fs.statSync( `${dir}/${index}` );
         if( stat.isDirectory() )
+        {
             createIndex( `${dir}/${index}` );
+        }
+        if(!okayToWrite)
+        {
+            continue
+        }
         // else if( downloadFolders.includes( startFolderName ) )
         //     type = " download";
         if( !blacklist.includes( index ) )
         {
             indexList += `\t\t\t<li><a href="${index}"${type}>${index}</a></li>\n`;
         }
-    });
+    }
+    if(!okayToWrite)
+    {
+        return
+    }
     indexList = indexList.slice( 0, indexList.length - 1 );
 
     const output = 
-    `<!DOCTYPE html>
+    `${SAFE_TO_REMOVE_KEY}
+    <!DOCTYPE html>
     <html>
     <head><title>Index of ./${dir.slice( __dirname.length + 1 )}</title></head>
     <body>
@@ -73,7 +95,7 @@ ${indexList}
     </body>
     </html>`;
 
-    fs.writeFileSync( `${dir}/index.html`, output );
+    fs.writeFileSync( indexPath, output );
 }
 
 createIndex( __dirname );
