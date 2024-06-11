@@ -49,18 +49,31 @@ function createIndex( dir )
 
     console.log( `indexing ${dir}, okayToWrite: ${okayToWrite}` );
     var startFolderName = getFileNameFromFullDir( dir );
-    const indexes = fs.readdirSync( dir );
+    const fileNames = fs.readdirSync( dir );
 
     var indexList = "";
 
     console.log( startFolderName );
-    for(const index of indexes)
+    for(const fileName of fileNames)
     {
         type = "";
-        var stat = fs.statSync( `${dir}/${index}` );
+        const path = `${dir}/${fileName}`
+        var stat = fs.statSync( path );
         if( stat.isDirectory() )
         {
-            createIndex( `${dir}/${index}` );
+            createIndex( path );
+        }
+        else
+        {
+            if(fileName.toLowerCase().includes(".html"))
+            {
+                const content = fs.readFileSync(path, "utf8")
+                const filteredContent = content.replace(`<div id="copyright">Created With  <a href="https://www.edrawsoft.com/" target="_blank" title="edrawsoft">EdrawMind</a></div>`, "")
+                if(content !== filteredContent)
+                {
+                    fs.writeFileSync(path, filteredContent)
+                }
+            }
         }
         if(!okayToWrite)
         {
@@ -68,9 +81,9 @@ function createIndex( dir )
         }
         // else if( downloadFolders.includes( startFolderName ) )
         //     type = " download";
-        if( !blacklist.includes( index ) )
+        if( !blacklist.includes( fileName ) )
         {
-            indexList += `\t\t\t<li><a href="${index}"${type}>${index}</a></li>\n`;
+            indexList += `\t\t\t<li><a href="${fileName}"${type}>${fileName}</a></li>\n`;
         }
     }
     if(!okayToWrite)
