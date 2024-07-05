@@ -8,6 +8,7 @@ const blacklist =
     "index.html",
     "start.js",
     "start.bat",
+    "code.sh",
     "js",
     "css",
     "images",
