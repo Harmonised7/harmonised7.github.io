@@ -1,6 +1,6 @@
 {
   "vaultName": "notes",
-  "lastExport": 1734237358814,
+  "lastExport": 1734261147829,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -261,6 +261,7 @@
     "Unsorted/Ability.md",
     "Unsorted/Abstract Thought.md",
     "Unsorted/Abstractness.md",
+    "Unsorted/Abundance.md",
     "Unsorted/Abuse.md",
     "Unsorted/Abuse of Power.md",
     "Unsorted/Accessibility.md",
@@ -325,6 +326,7 @@
     "Unsorted/Bad Quality.md",
     "Unsorted/Bafflement.md",
     "Unsorted/Balance.md",
+    "Unsorted/Base.md",
     "Unsorted/Battle.md",
     "Unsorted/Beauty.md",
     "Unsorted/Begrudgement.md",
@@ -336,6 +338,7 @@
     "Unsorted/Biological.md",
     "Unsorted/Birth.md",
     "Unsorted/Bitterness.md",
+    "Unsorted/Blindspot.md",
     "Unsorted/Bliss.md",
     "Unsorted/Blissful Ignorance.md",
     "Unsorted/Blood.md",
@@ -636,6 +639,7 @@
     "Unsorted/Foreverness.md",
     "Unsorted/Forgetting.md",
     "Unsorted/Forgiveness.md",
+    "Unsorted/Forming.md",
     "Unsorted/Fortitude.md",
     "Unsorted/Fortune.md",
     "Unsorted/Fraction.md",
@@ -919,6 +923,7 @@
     "Unsorted/Ownership.md",
     "Unsorted/Pacing.md",
     "Unsorted/Pain.md",
+    "Unsorted/Paleness.md",
     "Unsorted/Panic Attack.md",
     "Unsorted/Parasite.md",
     "Unsorted/Parent.md",
@@ -1104,12 +1109,14 @@
     "Unsorted/Sexual Stimulation.md",
     "Unsorted/Sexuality.md",
     "Unsorted/Shadowplay.md",
+    "Unsorted/Shallowness.md",
     "Unsorted/Shame.md",
     "Unsorted/Shaping.md",
     "Unsorted/Sharing.md",
     "Unsorted/Shattering.md",
     "Unsorted/Shield.md",
     "Unsorted/Shifting.md",
+    "Unsorted/Shine.md",
     "Unsorted/Shock.md",
     "Unsorted/Shortcut.md",
     "Unsorted/Shortness.md",
@@ -1148,6 +1155,7 @@
     "Unsorted/Source.md",
     "Unsorted/Sparing.md",
     "Unsorted/Sparkle.md",
+    "Unsorted/Sparsity.md",
     "Unsorted/Specialness.md",
     "Unsorted/Specificness.md",
     "Unsorted/Speculation.md",
@@ -1268,6 +1276,7 @@
     "Unsorted/Value.md",
     "Unsorted/Venting.md",
     "Unsorted/Vibe.md",
+    "Unsorted/Vibrancy.md",
     "Unsorted/Vileness.md",
     "Unsorted/Vocals.md",
     "Unsorted/Voice.md",
@@ -1367,181 +1376,181 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1734237358814,
-      "sourceSize": 455402,
+      "modifiedTime": 1734261147829,
+      "sourceSize": 458249,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1734237358814,
-      "sourceSize": 105854,
+      "modifiedTime": 1734261147829,
+      "sourceSize": 106397,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 6008,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 436,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1734237358814,
+      "modifiedTime": 1734261147829,
       "sourceSize": 723,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
@@ -2423,8 +2432,8 @@
       "dependencies": []
     },
     "Psychology/Mental Processes/Emotion/Emotional Processes/Scared.md": {
-      "modifiedTime": 1734237358814,
-      "sourceSize": 86,
+      "modifiedTime": 1734261147829,
+      "sourceSize": 96,
       "exportedPath": "psychology/mental-processes/emotion/emotional-processes/scared.html",
       "dependencies": []
     },
@@ -3431,8 +3440,8 @@
       "dependencies": []
     },
     "Unsorted/Bad Quality.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 86,
+      "modifiedTime": 1734261147829,
+      "sourceSize": 103,
       "exportedPath": "unsorted/bad-quality.html",
       "dependencies": []
     },
@@ -6041,8 +6050,8 @@
       "dependencies": []
     },
     "Unsorted/Magical Sand World.md": {
-      "modifiedTime": 1734237358814,
-      "sourceSize": 38868,
+      "modifiedTime": 1734261147829,
+      "sourceSize": 40519,
       "exportedPath": "unsorted/magical-sand-world.html",
       "dependencies": []
     },
@@ -6725,8 +6734,8 @@
       "dependencies": []
     },
     "Unsorted/People.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 37,
+      "modifiedTime": 1734261147829,
+      "sourceSize": 50,
       "exportedPath": "unsorted/people.html",
       "dependencies": []
     },
@@ -7061,8 +7070,8 @@
       "dependencies": []
     },
     "Unsorted/Productivity.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 99,
+      "modifiedTime": 1734261147829,
+      "sourceSize": 111,
       "exportedPath": "unsorted/productivity.html",
       "dependencies": []
     },
@@ -7139,8 +7148,8 @@
       "dependencies": []
     },
     "Unsorted/Quality.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 214,
+      "modifiedTime": 1734261147829,
+      "sourceSize": 269,
       "exportedPath": "unsorted/quality.html",
       "dependencies": []
     },
@@ -9320,6 +9329,60 @@
       "modifiedTime": 1734237358814,
       "sourceSize": 68,
       "exportedPath": "unsorted/work.html",
+      "dependencies": []
+    },
+    "Unsorted/Abundance.md": {
+      "modifiedTime": 1734261147829,
+      "sourceSize": 82,
+      "exportedPath": "unsorted/abundance.html",
+      "dependencies": []
+    },
+    "Unsorted/Base.md": {
+      "modifiedTime": 1734261147829,
+      "sourceSize": 35,
+      "exportedPath": "unsorted/base.html",
+      "dependencies": []
+    },
+    "Unsorted/Blindspot.md": {
+      "modifiedTime": 1734261147829,
+      "sourceSize": 55,
+      "exportedPath": "unsorted/blindspot.html",
+      "dependencies": []
+    },
+    "Unsorted/Forming.md": {
+      "modifiedTime": 1734261147829,
+      "sourceSize": 68,
+      "exportedPath": "unsorted/forming.html",
+      "dependencies": []
+    },
+    "Unsorted/Paleness.md": {
+      "modifiedTime": 1734261147829,
+      "sourceSize": 48,
+      "exportedPath": "unsorted/paleness.html",
+      "dependencies": []
+    },
+    "Unsorted/Shallowness.md": {
+      "modifiedTime": 1734261147829,
+      "sourceSize": 54,
+      "exportedPath": "unsorted/shallowness.html",
+      "dependencies": []
+    },
+    "Unsorted/Shine.md": {
+      "modifiedTime": 1734261147829,
+      "sourceSize": 80,
+      "exportedPath": "unsorted/shine.html",
+      "dependencies": []
+    },
+    "Unsorted/Sparsity.md": {
+      "modifiedTime": 1734261147829,
+      "sourceSize": 93,
+      "exportedPath": "unsorted/sparsity.html",
+      "dependencies": []
+    },
+    "Unsorted/Vibrancy.md": {
+      "modifiedTime": 1734261147829,
+      "sourceSize": 65,
+      "exportedPath": "unsorted/vibrancy.html",
       "dependencies": []
     }
   }
