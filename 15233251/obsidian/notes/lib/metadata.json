@@ -1,6 +1,6 @@
 {
   "vaultName": "notes",
-  "lastExport": 1734194238995,
+  "lastExport": 1734237358814,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -274,6 +274,7 @@
     "Unsorted/Adjustment.md",
     "Unsorted/Admiration.md",
     "Unsorted/Admittance.md",
+    "Unsorted/Adorableness.md",
     "Unsorted/Adult.md",
     "Unsorted/Advantage.md",
     "Unsorted/Adversity.md",
@@ -297,6 +298,7 @@
     "Unsorted/Angel.md",
     "Unsorted/Animal.md",
     "Unsorted/Answer.md",
+    "Unsorted/Anticipation.md",
     "Unsorted/Antonym.md",
     "Unsorted/Appearance.md",
     "Unsorted/Appropriateness.md",
@@ -321,6 +323,8 @@
     "Unsorted/Awkwardness.md",
     "Unsorted/Backhanded Compliment.md",
     "Unsorted/Bad Quality.md",
+    "Unsorted/Bafflement.md",
+    "Unsorted/Balance.md",
     "Unsorted/Battle.md",
     "Unsorted/Beauty.md",
     "Unsorted/Begrudgement.md",
@@ -340,6 +344,7 @@
     "Unsorted/Blossom.md",
     "Unsorted/Blurriness.md",
     "Unsorted/Body Language.md",
+    "Unsorted/Bonus.md",
     "Unsorted/Book.md",
     "Unsorted/Boy.md",
     "Unsorted/Boyfriend.md",
@@ -348,6 +353,7 @@
     "Unsorted/Brain Food.md",
     "Unsorted/Breaking Up.md",
     "Unsorted/Breakthrough.md",
+    "Unsorted/Breathing.md",
     "Unsorted/Breathtakingness.md",
     "Unsorted/Build.md",
     "Unsorted/Burden Reversal.md",
@@ -405,7 +411,7 @@
     "Unsorted/Comprehension.md",
     "Unsorted/Computation.md",
     "Unsorted/Computer.md",
-    "Unsorted/Concept.md",
+    "Unsorted/Conceptualization.md",
     "Unsorted/Conclusion.md",
     "Unsorted/Condition.md",
     "Unsorted/Conditionality.md",
@@ -417,6 +423,7 @@
     "Unsorted/Conscientious.md",
     "Unsorted/Consent.md",
     "Unsorted/Consideration.md",
+    "Unsorted/Consistency.md",
     "Unsorted/Constancy.md",
     "Unsorted/Constructive Complimenting.md",
     "Unsorted/Constructive Feedback.md",
@@ -424,6 +431,7 @@
     "Unsorted/Contacting.md",
     "Unsorted/Context.md",
     "Unsorted/Contradiction.md",
+    "Unsorted/Contrariness.md",
     "Unsorted/Contrast.md",
     "Unsorted/Contribution.md",
     "Unsorted/Control.md",
@@ -432,6 +440,7 @@
     "Unsorted/Conveyance.md",
     "Unsorted/Conviction.md",
     "Unsorted/Convincing.md",
+    "Unsorted/Cooking.md",
     "Unsorted/Coolness.md",
     "Unsorted/Cooperation.md",
     "Unsorted/Core.md",
@@ -446,6 +455,8 @@
     "Unsorted/Crazy.md",
     "Unsorted/Creatine.md",
     "Unsorted/Creation.md",
+    "Unsorted/Crime.md",
+    "Unsorted/Criteria.md",
     "Unsorted/Critical Thinking.md",
     "Unsorted/Criticality.md",
     "Unsorted/Crush.md",
@@ -457,10 +468,12 @@
     "Unsorted/Cutting Contact.md",
     "Unsorted/Damage.md",
     "Unsorted/Daniel Ingram.md",
+    "Unsorted/Daunting.md",
     "Unsorted/Debt.md",
     "Unsorted/Deceit.md",
     "Unsorted/Decision.md",
     "Unsorted/Declination.md",
+    "Unsorted/Decrease.md",
     "Unsorted/Dedication.md",
     "Unsorted/Defense.md",
     "Unsorted/Defense Mechanism.md",
@@ -480,6 +493,7 @@
     "Unsorted/Desperation.md",
     "Unsorted/Destruction.md",
     "Unsorted/Deterioration.md",
+    "Unsorted/Determination.md",
     "Unsorted/Determining.md",
     "Unsorted/Devaluation.md",
     "Unsorted/Devastating.md",
@@ -501,6 +515,7 @@
     "Unsorted/Discovery.md",
     "Unsorted/Discrimination.md",
     "Unsorted/Discussing.md",
+    "Unsorted/Disengagement.md",
     "Unsorted/Disguise.md",
     "Unsorted/Dishonesty.md",
     "Unsorted/Displaying.md",
@@ -520,6 +535,7 @@
     "Unsorted/Dwelling On The Past.md",
     "Unsorted/Earbuds.md",
     "Unsorted/Earplugs.md",
+    "Unsorted/Eating.md",
     "Unsorted/Educated Guess.md",
     "Unsorted/Education.md",
     "Unsorted/Effect.md",
@@ -540,6 +556,7 @@
     "Unsorted/Ending.md",
     "Unsorted/Endurance.md",
     "Unsorted/Energy.md",
+    "Unsorted/Engagement.md",
     "Unsorted/Enhancement.md",
     "Unsorted/Enjoyment.md",
     "Unsorted/Ensurance.md",
@@ -558,12 +575,15 @@
     "Unsorted/Evaluation.md",
     "Unsorted/Event.md",
     "Unsorted/Evidentness.md",
+    "Unsorted/Evil.md",
     "Unsorted/Evolution.md",
     "Unsorted/Exasperation.md",
     "Unsorted/Exclusion.md",
     "Unsorted/Exclusivity.md",
     "Unsorted/Excuse.md",
+    "Unsorted/Exercise.md",
     "Unsorted/Exhaustion.md",
+    "Unsorted/Existence.md",
     "Unsorted/Expectation.md",
     "Unsorted/Expending.md",
     "Unsorted/Expenditure.md",
@@ -576,13 +596,16 @@
     "Unsorted/Fading.md",
     "Unsorted/Failure.md",
     "Unsorted/Fairness.md",
+    "Unsorted/Faith.md",
     "Unsorted/Fake.md",
+    "Unsorted/Familiarity.md",
     "Unsorted/Family.md",
     "Unsorted/Family Member.md",
     "Unsorted/Fantasy.md",
     "Unsorted/Fat.md",
     "Unsorted/Fate.md",
     "Unsorted/Fault.md",
+    "Unsorted/Favor.md",
     "Unsorted/Favorableness.md",
     "Unsorted/Favorite.md",
     "Unsorted/Favourability.md",
@@ -590,6 +613,7 @@
     "Unsorted/Feeling Cornered.md",
     "Unsorted/Feeling Good.md",
     "Unsorted/Feeling Important.md",
+    "Unsorted/Feeling Loved.md",
     "Unsorted/Feeling Outnumbered.md",
     "Unsorted/Feeling Right.md",
     "Unsorted/Feeling Used.md",
@@ -611,8 +635,10 @@
     "Unsorted/Force.md",
     "Unsorted/Foreverness.md",
     "Unsorted/Forgetting.md",
+    "Unsorted/Forgiveness.md",
     "Unsorted/Fortitude.md",
     "Unsorted/Fortune.md",
+    "Unsorted/Fraction.md",
     "Unsorted/Freedom.md",
     "Unsorted/Friction.md",
     "Unsorted/Friend.md",
@@ -620,8 +646,10 @@
     "Unsorted/Fruitless.md",
     "Unsorted/Fun.md",
     "Unsorted/Function.md",
+    "Unsorted/Funny.md",
     "Unsorted/Future.md",
     "Unsorted/Future Referencing.md",
+    "Unsorted/Game.md",
     "Unsorted/Generalization.md",
     "Unsorted/Gentleness.md",
     "Unsorted/Genuinity.md",
@@ -634,6 +662,7 @@
     "Unsorted/Giving.md",
     "Unsorted/Giving Space.md",
     "Unsorted/Giving Up.md",
+    "Unsorted/Gladness.md",
     "Unsorted/Goal.md",
     "Unsorted/God.md",
     "Unsorted/Going Through The Motions.md",
@@ -649,30 +678,40 @@
     "Unsorted/Growth.md",
     "Unsorted/Guarantee.md",
     "Unsorted/Guessing.md",
+    "Unsorted/Guidance.md",
+    "Unsorted/Handling.md",
     "Unsorted/Harm.md",
     "Unsorted/Harmlessness.md",
     "Unsorted/Hate.md",
     "Unsorted/Hater.md",
     "Unsorted/Headphones.md",
+    "Unsorted/Healing.md",
     "Unsorted/Health.md",
     "Unsorted/Hearing.md",
+    "Unsorted/Heartlessness.md",
+    "Unsorted/Heartwarming.md",
     "Unsorted/Height.md",
     "Unsorted/Helping.md",
+    "Unsorted/Hibernation.md",
+    "Unsorted/Hiding.md",
     "Unsorted/History.md",
     "Unsorted/Hobby.md",
     "Unsorted/Holding Dear.md",
     "Unsorted/Hole.md",
     "Unsorted/Holiday.md",
     "Unsorted/Hope.md",
+    "Unsorted/Hopelessness.md",
     "Unsorted/Horizon.md",
     "Unsorted/Hormone.md",
     "Unsorted/Horribleness.md",
+    "Unsorted/Horror.md",
     "Unsorted/Hostility.md",
     "Unsorted/House.md",
     "Unsorted/Human.md",
     "Unsorted/Humiliation.md",
     "Unsorted/Hurt Feelings.md",
     "Unsorted/Hurting.md",
+    "Unsorted/Husband.md",
     "Unsorted/Hygiene.md",
     "Unsorted/Hyper-Awareness.md",
     "Unsorted/Iconicity.md",
@@ -695,22 +734,29 @@
     "Unsorted/Improving.md",
     "Unsorted/Inability.md",
     "Unsorted/Inaccessibility.md",
+    "Unsorted/Inadequacy.md",
     "Unsorted/Inattentiveness.md",
     "Unsorted/Inclusion.md",
+    "Unsorted/Income.md",
     "Unsorted/Incomparability.md",
     "Unsorted/Inconsideration.md",
+    "Unsorted/Inconsistency.md",
     "Unsorted/Inconvenience.md",
+    "Unsorted/Increase.md",
     "Unsorted/Incredibility.md",
+    "Unsorted/Indefinity.md",
     "Unsorted/Indication.md",
     "Unsorted/Inducement.md",
     "Unsorted/Inefficiency.md",
     "Unsorted/Inevitability.md",
+    "Unsorted/Inexperience.md",
     "Unsorted/Infatuation.md",
     "Unsorted/Infectious.md",
     "Unsorted/Influence.md",
     "Unsorted/Information.md",
     "Unsorted/Initial Setup.md",
     "Unsorted/Input.md",
+    "Unsorted/Insanity.md",
     "Unsorted/Insight.md",
     "Unsorted/Insignificance.md",
     "Unsorted/Insincerity.md",
@@ -723,6 +769,7 @@
     "Unsorted/Intern.md",
     "Unsorted/Interpolation.md",
     "Unsorted/Interruption.md",
+    "Unsorted/Intimacy.md",
     "Unsorted/Intonation.md",
     "Unsorted/Intricacy.md",
     "Unsorted/Introduction.md",
@@ -736,6 +783,7 @@
     "Unsorted/Junk Food.md",
     "Unsorted/Justice.md",
     "Unsorted/Justification.md",
+    "Unsorted/Keeping In Contact.md",
     "Unsorted/Kindness.md",
     "Unsorted/Knowledge.md",
     "Unsorted/Lacking.md",
@@ -754,6 +802,7 @@
     "Unsorted/Logic.md",
     "Unsorted/Loneliness.md",
     "Unsorted/Longing.md",
+    "Unsorted/Looking Forward To.md",
     "Unsorted/Loss.md",
     "Unsorted/Luck.md",
     "Unsorted/Magical Sand World.md",
@@ -775,9 +824,12 @@
     "Unsorted/Medicine.md",
     "Unsorted/Meeting.md",
     "Unsorted/Membership.md",
+    "Unsorted/Memory Access.md",
+    "Unsorted/Mending.md",
     "Unsorted/Mental Accounting.md",
     "Unsorted/Mental Hygiene.md",
     "Unsorted/Mental Skill.md",
+    "Unsorted/Mental State.md",
     "Unsorted/Mentality.md",
     "Unsorted/Mentioning.md",
     "Unsorted/Message.md",
@@ -790,10 +842,14 @@
     "Unsorted/Miserable.md",
     "Unsorted/Misfortune.md",
     "Unsorted/Misplacement.md",
+    "Unsorted/Missing.md",
+    "Unsorted/Mistreatment.md",
     "Unsorted/Misunderstanding.md",
     "Unsorted/Mixed Feelings.md",
     "Unsorted/Monogamy.md",
+    "Unsorted/Monster.md",
     "Unsorted/Morality.md",
+    "Unsorted/Mortification.md",
     "Unsorted/Motivation.md",
     "Unsorted/Moving On.md",
     "Unsorted/Muffling.md",
@@ -819,6 +875,7 @@
     "Unsorted/Negative Feedback.md",
     "Unsorted/Negative Feelings.md",
     "Unsorted/Negative Mindset.md",
+    "Unsorted/Neglect.md",
     "Unsorted/Net Negative.md",
     "Unsorted/Net Positive.md",
     "Unsorted/Neutral Feelings.md",
@@ -850,6 +907,7 @@
     "Unsorted/Online.md",
     "Unsorted/Opening Up.md",
     "Unsorted/Opinion Assessment.md",
+    "Unsorted/Opportunity.md",
     "Unsorted/Optimization.md",
     "Unsorted/Option.md",
     "Unsorted/Organic.md",
@@ -865,8 +923,11 @@
     "Unsorted/Parasite.md",
     "Unsorted/Parent.md",
     "Unsorted/Participation.md",
+    "Unsorted/Partner.md",
+    "Unsorted/Passitivity.md",
     "Unsorted/Past.md",
     "Unsorted/Patience.md",
+    "Unsorted/Pause.md",
     "Unsorted/Paying.md",
     "Unsorted/Peace.md",
     "Unsorted/Peer.md",
@@ -877,6 +938,7 @@
     "Unsorted/Perpetrator.md",
     "Unsorted/Persistence.md",
     "Unsorted/Person.md",
+    "Unsorted/Personality.md",
     "Unsorted/Personalization.md",
     "Unsorted/Perspective.md",
     "Unsorted/Petty.md",
@@ -894,6 +956,7 @@
     "Unsorted/Platonics.md",
     "Unsorted/Plausible Deniability.md",
     "Unsorted/Playfulness.md",
+    "Unsorted/Playing.md",
     "Unsorted/Pleasantness.md",
     "Unsorted/Pleasure.md",
     "Unsorted/Politeness.md",
@@ -905,6 +968,7 @@
     "Unsorted/Positive Feelings.md",
     "Unsorted/Positive Mindset.md",
     "Unsorted/Possibility.md",
+    "Unsorted/Postponing.md",
     "Unsorted/Potential.md",
     "Unsorted/Poverty.md",
     "Unsorted/Power.md",
@@ -927,6 +991,7 @@
     "Unsorted/Probability.md",
     "Unsorted/Problem.md",
     "Unsorted/Productivity.md",
+    "Unsorted/Progress.md",
     "Unsorted/Prolactin.md",
     "Unsorted/Prolongation.md",
     "Unsorted/Proof.md",
@@ -941,9 +1006,11 @@
     "Unsorted/Qualification.md",
     "Unsorted/Quality.md",
     "Unsorted/Quality Assessment.md",
+    "Unsorted/Quality Of Life.md",
     "Unsorted/Quirkiness.md",
     "Unsorted/Rabbithole.md",
     "Unsorted/Raising.md",
+    "Unsorted/Randomness.md",
     "Unsorted/Rarity.md",
     "Unsorted/Rate.md",
     "Unsorted/Ravenousness.md",
@@ -960,21 +1027,25 @@
     "Unsorted/Recharging.md",
     "Unsorted/Recollection.md",
     "Unsorted/Reconsideration.md",
+    "Unsorted/Recording.md",
     "Unsorted/Recovery.md",
     "Unsorted/Recruitment.md",
     "Unsorted/Red Flag.md",
     "Unsorted/Reduction.md",
     "Unsorted/Reference.md",
     "Unsorted/Refusal.md",
+    "Unsorted/Regaining.md",
     "Unsorted/Rehabilitation.md",
     "Unsorted/Reinterpretation.md",
     "Unsorted/Rejection.md",
+    "Unsorted/Relatability.md",
     "Unsorted/Relationship Base.md",
     "Unsorted/Relationship Health.md",
     "Unsorted/Relationship Health in HP and Shield Metaphor.md",
     "Unsorted/Relaxation.md",
     "Unsorted/Relentlessness.md",
     "Unsorted/Relevancy.md",
+    "Unsorted/Reliability.md",
     "Unsorted/Relief.md",
     "Unsorted/Reluctancy.md",
     "Unsorted/Remainder.md",
@@ -987,6 +1058,7 @@
     "Unsorted/Requirement.md",
     "Unsorted/Research.md",
     "Unsorted/Resemblance.md",
+    "Unsorted/Reservation.md",
     "Unsorted/Resiliency.md",
     "Unsorted/Resistance.md",
     "Unsorted/Resolvement.md",
@@ -1012,12 +1084,15 @@
     "Unsorted/Sapient Being.md",
     "Unsorted/Saturated Fat.md",
     "Unsorted/Saving.md",
+    "Unsorted/Scarcity.md",
+    "Unsorted/Scheduling.md",
     "Unsorted/Screaming.md",
     "Unsorted/Screwing Up.md",
     "Unsorted/Secure.md",
     "Unsorted/Seed.md",
     "Unsorted/Seeking.md",
     "Unsorted/Seeming.md",
+    "Unsorted/Self Preservation.md",
     "Unsorted/Self-Awareness.md",
     "Unsorted/Self-Feeding Loop.md",
     "Unsorted/Self-Image.md",
@@ -1028,9 +1103,12 @@
     "Unsorted/Severity.md",
     "Unsorted/Sexual Stimulation.md",
     "Unsorted/Sexuality.md",
+    "Unsorted/Shadowplay.md",
     "Unsorted/Shame.md",
     "Unsorted/Shaping.md",
     "Unsorted/Sharing.md",
+    "Unsorted/Shattering.md",
+    "Unsorted/Shield.md",
     "Unsorted/Shifting.md",
     "Unsorted/Shock.md",
     "Unsorted/Shortcut.md",
@@ -1040,6 +1118,7 @@
     "Unsorted/Shyness.md",
     "Unsorted/Sick.md",
     "Unsorted/Sigh.md",
+    "Unsorted/Sight.md",
     "Unsorted/Sign.md",
     "Unsorted/Signification.md",
     "Unsorted/Silliness.md",
@@ -1049,6 +1128,7 @@
     "Unsorted/Sincerity.md",
     "Unsorted/Sinkhole.md",
     "Unsorted/Sinking.md",
+    "Unsorted/Sitting.md",
     "Unsorted/Situation.md",
     "Unsorted/Skill.md",
     "Unsorted/Skill Check.md",
@@ -1064,6 +1144,7 @@
     "Unsorted/Solution.md",
     "Unsorted/Solving.md",
     "Unsorted/Song.md",
+    "Unsorted/Sorry.md",
     "Unsorted/Source.md",
     "Unsorted/Sparing.md",
     "Unsorted/Sparkle.md",
@@ -1105,9 +1186,11 @@
     "Unsorted/Sulking.md",
     "Unsorted/Summarizing.md",
     "Unsorted/Suppression.md",
+    "Unsorted/Surprise.md",
     "Unsorted/Survival.md",
     "Unsorted/Suspicion.md",
     "Unsorted/Sustainability.md",
+    "Unsorted/Sweetheart.md",
     "Unsorted/Symptom.md",
     "Unsorted/Synergy.md",
     "Unsorted/System.md",
@@ -1141,11 +1224,13 @@
     "Unsorted/Tool.md",
     "Unsorted/Torment.md",
     "Unsorted/Torture.md",
+    "Unsorted/Toughness.md",
     "Unsorted/Trait.md",
     "Unsorted/Transformation.md",
     "Unsorted/Transparency.md",
     "Unsorted/Trauma Dumping.md",
     "Unsorted/Travel.md",
+    "Unsorted/Treatment.md",
     "Unsorted/Trouble.md",
     "Unsorted/Truth.md",
     "Unsorted/Unawareness.md",
@@ -1156,6 +1241,7 @@
     "Unsorted/Under-Performance.md",
     "Unsorted/Undeserving.md",
     "Unsorted/Uneventfulness.md",
+    "Unsorted/Unfairness.md",
     "Unsorted/Uniqueness.md",
     "Unsorted/Unknown.md",
     "Unsorted/Unlikeliness.md",
@@ -1163,6 +1249,7 @@
     "Unsorted/Unpredictability.md",
     "Unsorted/Unrealism.md",
     "Unsorted/Unreciprocation.md",
+    "Unsorted/Unreliability.md",
     "Unsorted/Unresponsiveness.md",
     "Unsorted/Unsaturated Fat.md",
     "Unsorted/Unsolicitation.md",
@@ -1181,6 +1268,7 @@
     "Unsorted/Value.md",
     "Unsorted/Venting.md",
     "Unsorted/Vibe.md",
+    "Unsorted/Vileness.md",
     "Unsorted/Vocals.md",
     "Unsorted/Voice.md",
     "Unsorted/Volatile.md",
@@ -1199,6 +1287,7 @@
     "Unsorted/Weight.md",
     "Unsorted/Welcoming.md",
     "Unsorted/Wellbeing.md",
+    "Unsorted/Wife.md",
     "Unsorted/Will.md",
     "Unsorted/Wisdom.md",
     "Unsorted/Wishing.md",
@@ -1206,6 +1295,7 @@
     "Unsorted/Wonderfulness.md",
     "Unsorted/Wondering.md",
     "Unsorted/Words.md",
+    "Unsorted/Work.md",
     "Unsorted/World.md",
     "Unsorted/Worry.md",
     "Unsorted/Worship.md",
@@ -1277,181 +1367,181 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 426640,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 455402,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 98442,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 105854,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 6008,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 436,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1734194238995,
+      "modifiedTime": 1734237358814,
       "sourceSize": 723,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
@@ -1727,8 +1817,8 @@
       "dependencies": []
     },
     "Psychology/Mental Capacities/Commitment.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 120,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 135,
       "exportedPath": "psychology/mental-capacities/commitment.html",
       "dependencies": []
     },
@@ -1757,8 +1847,8 @@
       "dependencies": []
     },
     "Psychology/Mental Capacities/Memory.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 1559,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 280,
       "exportedPath": "psychology/mental-capacities/memory.html",
       "dependencies": []
     },
@@ -1967,8 +2057,8 @@
       "dependencies": []
     },
     "Psychology/Mental Processes/Emotion/Emotional Capacities/Feelings/Amazement.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 67,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 114,
       "exportedPath": "psychology/mental-processes/emotion/emotional-capacities/feelings/amazement.html",
       "dependencies": []
     },
@@ -2021,8 +2111,8 @@
       "dependencies": []
     },
     "Psychology/Mental Processes/Emotion/Emotional Capacities/Feelings/Disgust.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 85,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 102,
       "exportedPath": "psychology/mental-processes/emotion/emotional-capacities/feelings/disgust.html",
       "dependencies": []
     },
@@ -2051,20 +2141,20 @@
       "dependencies": []
     },
     "Psychology/Mental Processes/Emotion/Emotional Capacities/Feelings/Feeling Seen.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 184,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 198,
       "exportedPath": "psychology/mental-processes/emotion/emotional-capacities/feelings/feeling-seen.html",
       "dependencies": []
     },
     "Psychology/Mental Processes/Emotion/Emotional Capacities/Feelings/Feeling Valued.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 164,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 180,
       "exportedPath": "psychology/mental-processes/emotion/emotional-capacities/feelings/feeling-valued.html",
       "dependencies": []
     },
     "Psychology/Mental Processes/Emotion/Emotional Capacities/Feelings/Feelings.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 280,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 520,
       "exportedPath": "psychology/mental-processes/emotion/emotional-capacities/feelings/feelings.html",
       "dependencies": []
     },
@@ -2141,8 +2231,8 @@
       "dependencies": []
     },
     "Psychology/Mental Processes/Emotion/Emotional Capacities/Feelings/Love.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 87,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 189,
       "exportedPath": "psychology/mental-processes/emotion/emotional-capacities/feelings/love.html",
       "dependencies": []
     },
@@ -2171,8 +2261,8 @@
       "dependencies": []
     },
     "Psychology/Mental Processes/Emotion/Emotional Capacities/Feelings/Sadness.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 64,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 78,
       "exportedPath": "psychology/mental-processes/emotion/emotional-capacities/feelings/sadness.html",
       "dependencies": []
     },
@@ -2333,8 +2423,8 @@
       "dependencies": []
     },
     "Psychology/Mental Processes/Emotion/Emotional Processes/Scared.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 76,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 86,
       "exportedPath": "psychology/mental-processes/emotion/emotional-processes/scared.html",
       "dependencies": []
     },
@@ -2699,8 +2789,8 @@
       "dependencies": []
     },
     "Social/Social Behaviors/Love Bombing.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 91,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 118,
       "exportedPath": "social/social-behaviors/love-bombing.html",
       "dependencies": []
     },
@@ -2747,8 +2837,8 @@
       "dependencies": []
     },
     "Social/Social Behaviors/Stonewalling.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 3763,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 3765,
       "exportedPath": "social/social-behaviors/stonewalling.html",
       "dependencies": []
     },
@@ -2999,8 +3089,8 @@
       "dependencies": []
     },
     "Unsorted/Accessibility.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 134,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 168,
       "exportedPath": "unsorted/accessibility.html",
       "dependencies": []
     },
@@ -3161,8 +3251,8 @@
       "dependencies": []
     },
     "Unsorted/Ambiguous Allure.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 10348,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 10358,
       "exportedPath": "unsorted/ambiguous-allure.html",
       "dependencies": []
     },
@@ -3473,8 +3563,8 @@
       "dependencies": []
     },
     "Unsorted/Boyfriend.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 128,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 148,
       "exportedPath": "unsorted/boyfriend.html",
       "dependencies": []
     },
@@ -3731,8 +3821,8 @@
       "dependencies": []
     },
     "Unsorted/Closeness.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 50,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 61,
       "exportedPath": "unsorted/closeness.html",
       "dependencies": []
     },
@@ -3815,8 +3905,8 @@
       "dependencies": []
     },
     "Unsorted/Complaining.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 42,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 84,
       "exportedPath": "unsorted/complaining.html",
       "dependencies": []
     },
@@ -3848,12 +3938,6 @@
       "modifiedTime": 1734194238995,
       "sourceSize": 53,
       "exportedPath": "unsorted/computer.html",
-      "dependencies": []
-    },
-    "Unsorted/Concept.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 51,
-      "exportedPath": "unsorted/concept.html",
       "dependencies": []
     },
     "Unsorted/Conclusion.md": {
@@ -4175,8 +4259,8 @@
       "dependencies": []
     },
     "Unsorted/Decision.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 50,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 74,
       "exportedPath": "unsorted/decision.html",
       "dependencies": []
     },
@@ -4235,14 +4319,14 @@
       "dependencies": []
     },
     "Unsorted/Depression.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 41,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 114,
       "exportedPath": "unsorted/depression.html",
       "dependencies": []
     },
     "Unsorted/Depth.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 45,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 56,
       "exportedPath": "unsorted/depth.html",
       "dependencies": []
     },
@@ -4319,8 +4403,8 @@
       "dependencies": []
     },
     "Unsorted/Development.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 101,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 118,
       "exportedPath": "unsorted/development.html",
       "dependencies": []
     },
@@ -4499,8 +4583,8 @@
       "dependencies": []
     },
     "Unsorted/Drama.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 49,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 66,
       "exportedPath": "unsorted/drama.html",
       "dependencies": []
     },
@@ -4805,8 +4889,8 @@
       "dependencies": []
     },
     "Unsorted/Expectation.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 110,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 124,
       "exportedPath": "unsorted/expectation.html",
       "dependencies": []
     },
@@ -4871,8 +4955,8 @@
       "dependencies": []
     },
     "Unsorted/Fairness.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 83,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 90,
       "exportedPath": "unsorted/fairness.html",
       "dependencies": []
     },
@@ -4895,8 +4979,8 @@
       "dependencies": []
     },
     "Unsorted/Fantasy.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 52,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 82,
       "exportedPath": "unsorted/fantasy.html",
       "dependencies": []
     },
@@ -4967,8 +5051,8 @@
       "dependencies": []
     },
     "Unsorted/Feeling Right.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 169,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 201,
       "exportedPath": "unsorted/feeling-right.html",
       "dependencies": []
     },
@@ -4979,8 +5063,8 @@
       "dependencies": []
     },
     "Unsorted/Feeling Wrong.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 156,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 206,
       "exportedPath": "unsorted/feeling-wrong.html",
       "dependencies": []
     },
@@ -5081,8 +5165,8 @@
       "dependencies": []
     },
     "Unsorted/Forgetting.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 75,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 89,
       "exportedPath": "unsorted/forgetting.html",
       "dependencies": []
     },
@@ -5129,8 +5213,8 @@
       "dependencies": []
     },
     "Unsorted/Fun.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 44,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 34,
       "exportedPath": "unsorted/fun.html",
       "dependencies": []
     },
@@ -5201,8 +5285,8 @@
       "dependencies": []
     },
     "Unsorted/Girlfriend.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 135,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 150,
       "exportedPath": "unsorted/girlfriend.html",
       "dependencies": []
     },
@@ -5219,8 +5303,8 @@
       "dependencies": []
     },
     "Unsorted/Giving Up.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 77,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 90,
       "exportedPath": "unsorted/giving-up.html",
       "dependencies": []
     },
@@ -5417,8 +5501,8 @@
       "dependencies": []
     },
     "Unsorted/Horribleness.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 117,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 121,
       "exportedPath": "unsorted/horribleness.html",
       "dependencies": []
     },
@@ -5525,8 +5609,8 @@
       "dependencies": []
     },
     "Unsorted/Imbalance.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 77,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 119,
       "exportedPath": "unsorted/imbalance.html",
       "dependencies": []
     },
@@ -5543,8 +5627,8 @@
       "dependencies": []
     },
     "Unsorted/Imperfection.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 57,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 75,
       "exportedPath": "unsorted/imperfection.html",
       "dependencies": []
     },
@@ -5711,8 +5795,8 @@
       "dependencies": []
     },
     "Unsorted/Instinct.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 73,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 87,
       "exportedPath": "unsorted/instinct.html",
       "dependencies": []
     },
@@ -5771,8 +5855,8 @@
       "dependencies": []
     },
     "Unsorted/Introduction.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 0,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 103,
       "exportedPath": "unsorted/introduction.html",
       "dependencies": []
     },
@@ -5789,8 +5873,8 @@
       "dependencies": []
     },
     "Unsorted/Inviting.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 65,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 89,
       "exportedPath": "unsorted/inviting.html",
       "dependencies": []
     },
@@ -5957,8 +6041,8 @@
       "dependencies": []
     },
     "Unsorted/Magical Sand World.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 20176,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 38868,
       "exportedPath": "unsorted/magical-sand-world.html",
       "dependencies": []
     },
@@ -5975,8 +6059,8 @@
       "dependencies": []
     },
     "Unsorted/Maintenance.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 56,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 87,
       "exportedPath": "unsorted/maintenance.html",
       "dependencies": []
     },
@@ -6089,8 +6173,8 @@
       "dependencies": []
     },
     "Unsorted/Mentality.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 286,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 309,
       "exportedPath": "unsorted/mentality.html",
       "dependencies": []
     },
@@ -6113,8 +6197,8 @@
       "dependencies": []
     },
     "Unsorted/Mind.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 45,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 78,
       "exportedPath": "unsorted/mind.html",
       "dependencies": []
     },
@@ -6251,8 +6335,8 @@
       "dependencies": []
     },
     "Unsorted/Naivety.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 38,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 60,
       "exportedPath": "unsorted/naivety.html",
       "dependencies": []
     },
@@ -6467,8 +6551,8 @@
       "dependencies": []
     },
     "Unsorted/Obsessive Ambivalence.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 1462,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 1480,
       "exportedPath": "unsorted/obsessive-ambivalence.html",
       "dependencies": []
     },
@@ -6509,8 +6593,8 @@
       "dependencies": []
     },
     "Unsorted/Opening Up.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 53,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 67,
       "exportedPath": "unsorted/opening-up.html",
       "dependencies": []
     },
@@ -7193,8 +7277,8 @@
       "dependencies": []
     },
     "Unsorted/Red Flag.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 39,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 53,
       "exportedPath": "unsorted/red-flag.html",
       "dependencies": []
     },
@@ -7283,20 +7367,20 @@
       "dependencies": []
     },
     "Unsorted/Remainder.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 40,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 64,
       "exportedPath": "unsorted/remainder.html",
       "dependencies": []
     },
     "Unsorted/Remembering.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 2881,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 2899,
       "exportedPath": "unsorted/remembering.html",
       "dependencies": []
     },
     "Unsorted/Reminder.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 75,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 89,
       "exportedPath": "unsorted/reminder.html",
       "dependencies": []
     },
@@ -7517,8 +7601,8 @@
       "dependencies": []
     },
     "Unsorted/Seeking.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 82,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 97,
       "exportedPath": "unsorted/seeking.html",
       "dependencies": []
     },
@@ -7853,8 +7937,8 @@
       "dependencies": []
     },
     "Unsorted/Spending Time Together.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 229,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 261,
       "exportedPath": "unsorted/spending-time-together.html",
       "dependencies": []
     },
@@ -7907,8 +7991,8 @@
       "dependencies": []
     },
     "Unsorted/State.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 36,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 70,
       "exportedPath": "unsorted/state.html",
       "dependencies": []
     },
@@ -8219,8 +8303,8 @@
       "dependencies": []
     },
     "Unsorted/Timidness.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 50,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 62,
       "exportedPath": "unsorted/timidness.html",
       "dependencies": []
     },
@@ -8579,8 +8663,8 @@
       "dependencies": []
     },
     "Unsorted/Weakness.md": {
-      "modifiedTime": 1734194238995,
-      "sourceSize": 70,
+      "modifiedTime": 1734237358814,
+      "sourceSize": 81,
       "exportedPath": "unsorted/weakness.html",
       "dependencies": []
     },
@@ -8690,6 +8774,552 @@
       "modifiedTime": 1734194238995,
       "sourceSize": 76,
       "exportedPath": "unsorted/youth.html",
+      "dependencies": []
+    },
+    "Unsorted/Adorableness.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 101,
+      "exportedPath": "unsorted/adorableness.html",
+      "dependencies": []
+    },
+    "Unsorted/Anticipation.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 90,
+      "exportedPath": "unsorted/anticipation.html",
+      "dependencies": []
+    },
+    "Unsorted/Bafflement.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 91,
+      "exportedPath": "unsorted/bafflement.html",
+      "dependencies": []
+    },
+    "Unsorted/Balance.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 94,
+      "exportedPath": "unsorted/balance.html",
+      "dependencies": []
+    },
+    "Unsorted/Bonus.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 36,
+      "exportedPath": "unsorted/bonus.html",
+      "dependencies": []
+    },
+    "Unsorted/Breathing.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 78,
+      "exportedPath": "unsorted/breathing.html",
+      "dependencies": []
+    },
+    "Unsorted/Conceptualization.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 144,
+      "exportedPath": "unsorted/conceptualization.html",
+      "dependencies": []
+    },
+    "Unsorted/Consistency.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 108,
+      "exportedPath": "unsorted/consistency.html",
+      "dependencies": []
+    },
+    "Unsorted/Contrariness.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 56,
+      "exportedPath": "unsorted/contrariness.html",
+      "dependencies": []
+    },
+    "Unsorted/Cooking.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 68,
+      "exportedPath": "unsorted/cooking.html",
+      "dependencies": []
+    },
+    "Unsorted/Crime.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 47,
+      "exportedPath": "unsorted/crime.html",
+      "dependencies": []
+    },
+    "Unsorted/Criteria.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 53,
+      "exportedPath": "unsorted/criteria.html",
+      "dependencies": []
+    },
+    "Unsorted/Daunting.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 72,
+      "exportedPath": "unsorted/daunting.html",
+      "dependencies": []
+    },
+    "Unsorted/Decrease.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 111,
+      "exportedPath": "unsorted/decrease.html",
+      "dependencies": []
+    },
+    "Unsorted/Determination.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 104,
+      "exportedPath": "unsorted/determination.html",
+      "dependencies": []
+    },
+    "Unsorted/Disengagement.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 136,
+      "exportedPath": "unsorted/disengagement.html",
+      "dependencies": []
+    },
+    "Unsorted/Eating.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 110,
+      "exportedPath": "unsorted/eating.html",
+      "dependencies": []
+    },
+    "Unsorted/Engagement.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 123,
+      "exportedPath": "unsorted/engagement.html",
+      "dependencies": []
+    },
+    "Unsorted/Evil.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 35,
+      "exportedPath": "unsorted/evil.html",
+      "dependencies": []
+    },
+    "Unsorted/Exercise.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 82,
+      "exportedPath": "unsorted/exercise.html",
+      "dependencies": []
+    },
+    "Unsorted/Existence.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 87,
+      "exportedPath": "unsorted/existence.html",
+      "dependencies": []
+    },
+    "Unsorted/Faith.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 66,
+      "exportedPath": "unsorted/faith.html",
+      "dependencies": []
+    },
+    "Unsorted/Familiarity.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 70,
+      "exportedPath": "unsorted/familiarity.html",
+      "dependencies": []
+    },
+    "Unsorted/Favor.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 47,
+      "exportedPath": "unsorted/favor.html",
+      "dependencies": []
+    },
+    "Unsorted/Feeling Loved.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 149,
+      "exportedPath": "unsorted/feeling-loved.html",
+      "dependencies": []
+    },
+    "Unsorted/Forgiveness.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 92,
+      "exportedPath": "unsorted/forgiveness.html",
+      "dependencies": []
+    },
+    "Unsorted/Fraction.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 39,
+      "exportedPath": "unsorted/fraction.html",
+      "dependencies": []
+    },
+    "Unsorted/Funny.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 48,
+      "exportedPath": "unsorted/funny.html",
+      "dependencies": []
+    },
+    "Unsorted/Game.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 45,
+      "exportedPath": "unsorted/game.html",
+      "dependencies": []
+    },
+    "Unsorted/Gladness.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 59,
+      "exportedPath": "unsorted/gladness.html",
+      "dependencies": []
+    },
+    "Unsorted/Guidance.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 60,
+      "exportedPath": "unsorted/guidance.html",
+      "dependencies": []
+    },
+    "Unsorted/Handling.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 74,
+      "exportedPath": "unsorted/handling.html",
+      "dependencies": []
+    },
+    "Unsorted/Healing.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 68,
+      "exportedPath": "unsorted/healing.html",
+      "dependencies": []
+    },
+    "Unsorted/Heartlessness.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 74,
+      "exportedPath": "unsorted/heartlessness.html",
+      "dependencies": []
+    },
+    "Unsorted/Heartwarming.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 43,
+      "exportedPath": "unsorted/heartwarming.html",
+      "dependencies": []
+    },
+    "Unsorted/Hibernation.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 86,
+      "exportedPath": "unsorted/hibernation.html",
+      "dependencies": []
+    },
+    "Unsorted/Hiding.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 64,
+      "exportedPath": "unsorted/hiding.html",
+      "dependencies": []
+    },
+    "Unsorted/Hopelessness.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 71,
+      "exportedPath": "unsorted/hopelessness.html",
+      "dependencies": []
+    },
+    "Unsorted/Horror.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 62,
+      "exportedPath": "unsorted/horror.html",
+      "dependencies": []
+    },
+    "Unsorted/Husband.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 51,
+      "exportedPath": "unsorted/husband.html",
+      "dependencies": []
+    },
+    "Unsorted/Inadequacy.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 73,
+      "exportedPath": "unsorted/inadequacy.html",
+      "dependencies": []
+    },
+    "Unsorted/Income.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 50,
+      "exportedPath": "unsorted/income.html",
+      "dependencies": []
+    },
+    "Unsorted/Inconsistency.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 112,
+      "exportedPath": "unsorted/inconsistency.html",
+      "dependencies": []
+    },
+    "Unsorted/Increase.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 111,
+      "exportedPath": "unsorted/increase.html",
+      "dependencies": []
+    },
+    "Unsorted/Indefinity.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 92,
+      "exportedPath": "unsorted/indefinity.html",
+      "dependencies": []
+    },
+    "Unsorted/Inexperience.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 62,
+      "exportedPath": "unsorted/inexperience.html",
+      "dependencies": []
+    },
+    "Unsorted/Insanity.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 63,
+      "exportedPath": "unsorted/insanity.html",
+      "dependencies": []
+    },
+    "Unsorted/Intimacy.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 67,
+      "exportedPath": "unsorted/intimacy.html",
+      "dependencies": []
+    },
+    "Unsorted/Keeping In Contact.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 69,
+      "exportedPath": "unsorted/keeping-in-contact.html",
+      "dependencies": []
+    },
+    "Unsorted/Looking Forward To.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 91,
+      "exportedPath": "unsorted/looking-forward-to.html",
+      "dependencies": []
+    },
+    "Unsorted/Memory Access.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 1491,
+      "exportedPath": "unsorted/memory-access.html",
+      "dependencies": []
+    },
+    "Unsorted/Mending.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 68,
+      "exportedPath": "unsorted/mending.html",
+      "dependencies": []
+    },
+    "Unsorted/Mental State.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 130,
+      "exportedPath": "unsorted/mental-state.html",
+      "dependencies": []
+    },
+    "Unsorted/Missing.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 69,
+      "exportedPath": "unsorted/missing.html",
+      "dependencies": []
+    },
+    "Unsorted/Mistreatment.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 132,
+      "exportedPath": "unsorted/mistreatment.html",
+      "dependencies": []
+    },
+    "Unsorted/Monster.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 51,
+      "exportedPath": "unsorted/monster.html",
+      "dependencies": []
+    },
+    "Unsorted/Mortification.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 87,
+      "exportedPath": "unsorted/mortification.html",
+      "dependencies": []
+    },
+    "Unsorted/Neglect.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 80,
+      "exportedPath": "unsorted/neglect.html",
+      "dependencies": []
+    },
+    "Unsorted/Opportunity.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 56,
+      "exportedPath": "unsorted/opportunity.html",
+      "dependencies": []
+    },
+    "Unsorted/Partner.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 38,
+      "exportedPath": "unsorted/partner.html",
+      "dependencies": []
+    },
+    "Unsorted/Passitivity.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 68,
+      "exportedPath": "unsorted/passitivity.html",
+      "dependencies": []
+    },
+    "Unsorted/Pause.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 70,
+      "exportedPath": "unsorted/pause.html",
+      "dependencies": []
+    },
+    "Unsorted/Personality.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 42,
+      "exportedPath": "unsorted/personality.html",
+      "dependencies": []
+    },
+    "Unsorted/Playing.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 82,
+      "exportedPath": "unsorted/playing.html",
+      "dependencies": []
+    },
+    "Unsorted/Postponing.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 68,
+      "exportedPath": "unsorted/postponing.html",
+      "dependencies": []
+    },
+    "Unsorted/Progress.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 85,
+      "exportedPath": "unsorted/progress.html",
+      "dependencies": []
+    },
+    "Unsorted/Quality Of Life.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 46,
+      "exportedPath": "unsorted/quality-of-life.html",
+      "dependencies": []
+    },
+    "Unsorted/Randomness.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 65,
+      "exportedPath": "unsorted/randomness.html",
+      "dependencies": []
+    },
+    "Unsorted/Recording.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 55,
+      "exportedPath": "unsorted/recording.html",
+      "dependencies": []
+    },
+    "Unsorted/Regaining.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 76,
+      "exportedPath": "unsorted/regaining.html",
+      "dependencies": []
+    },
+    "Unsorted/Relatability.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 94,
+      "exportedPath": "unsorted/relatability.html",
+      "dependencies": []
+    },
+    "Unsorted/Reliability.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 102,
+      "exportedPath": "unsorted/reliability.html",
+      "dependencies": []
+    },
+    "Unsorted/Reservation.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 80,
+      "exportedPath": "unsorted/reservation.html",
+      "dependencies": []
+    },
+    "Unsorted/Scarcity.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 63,
+      "exportedPath": "unsorted/scarcity.html",
+      "dependencies": []
+    },
+    "Unsorted/Scheduling.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 69,
+      "exportedPath": "unsorted/scheduling.html",
+      "dependencies": []
+    },
+    "Unsorted/Self Preservation.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 126,
+      "exportedPath": "unsorted/self-preservation.html",
+      "dependencies": []
+    },
+    "Unsorted/Shadowplay.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 41,
+      "exportedPath": "unsorted/shadowplay.html",
+      "dependencies": []
+    },
+    "Unsorted/Shattering.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 80,
+      "exportedPath": "unsorted/shattering.html",
+      "dependencies": []
+    },
+    "Unsorted/Shield.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 37,
+      "exportedPath": "unsorted/shield.html",
+      "dependencies": []
+    },
+    "Unsorted/Sight.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 64,
+      "exportedPath": "unsorted/sight.html",
+      "dependencies": []
+    },
+    "Unsorted/Sitting.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 63,
+      "exportedPath": "unsorted/sitting.html",
+      "dependencies": []
+    },
+    "Unsorted/Sorry.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 36,
+      "exportedPath": "unsorted/sorry.html",
+      "dependencies": []
+    },
+    "Unsorted/Surprise.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 84,
+      "exportedPath": "unsorted/surprise.html",
+      "dependencies": []
+    },
+    "Unsorted/Sweetheart.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 41,
+      "exportedPath": "unsorted/sweetheart.html",
+      "dependencies": []
+    },
+    "Unsorted/Toughness.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 62,
+      "exportedPath": "unsorted/toughness.html",
+      "dependencies": []
+    },
+    "Unsorted/Treatment.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 106,
+      "exportedPath": "unsorted/treatment.html",
+      "dependencies": []
+    },
+    "Unsorted/Unfairness.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 95,
+      "exportedPath": "unsorted/unfairness.html",
+      "dependencies": []
+    },
+    "Unsorted/Unreliability.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 75,
+      "exportedPath": "unsorted/unreliability.html",
+      "dependencies": []
+    },
+    "Unsorted/Vileness.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 48,
+      "exportedPath": "unsorted/vileness.html",
+      "dependencies": []
+    },
+    "Unsorted/Wife.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 65,
+      "exportedPath": "unsorted/wife.html",
+      "dependencies": []
+    },
+    "Unsorted/Work.md": {
+      "modifiedTime": 1734237358814,
+      "sourceSize": 68,
+      "exportedPath": "unsorted/work.html",
       "dependencies": []
     }
   }
