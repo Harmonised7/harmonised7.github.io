@@ -1,0 +1,21 @@
+{
+    "strings":
+    {
+        "latestVersion": "3.54.1"
+    },
+    "doubles":
+    {
+    },
+    "longs":
+    {
+    },
+    "maps":
+    {
+
+    },
+    "motd":
+    [
+        "You Matter!",
+        "Don't Give Up!"
+    ]
+}
